@@ -1,2 +1,2 @@
-# google-pre-practice-array
-practice google dsa Question set
+# DSA
+# Chapter 1 => Array
