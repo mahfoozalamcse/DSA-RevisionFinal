@@ -1,3 +1,4 @@
+package chapter1;
 public class SecondLarg {
     // max element
     public static int max(int arr[]){

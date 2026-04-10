@@ -1,3 +1,4 @@
+package chapter1;
 public class PeekElement {
     public static int peakElement(int[] arr) {
         // code here

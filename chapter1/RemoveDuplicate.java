@@ -1,3 +1,4 @@
+package chapter1;
 public class RemoveDuplicate {
   public static int removeduplicate(int arr[], int n){
    int temp[] = new int[n-1];

@@ -1,3 +1,4 @@
+package chapter1;
 public class MaxElement {
     public static int max(int arr[]){
         int max = arr[0];

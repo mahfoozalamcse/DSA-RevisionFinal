@@ -1,3 +1,4 @@
+package chapter1;
 import java.util.*;
 public class ArraywaveForm{
     // wave form which simple sort arrray into wave form

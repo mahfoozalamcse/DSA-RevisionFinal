@@ -1,3 +1,4 @@
+package chapter1;
 public class MaxSumNonOverLap {
     
         public static int maxSum(int[] arr, int M, int K) {
